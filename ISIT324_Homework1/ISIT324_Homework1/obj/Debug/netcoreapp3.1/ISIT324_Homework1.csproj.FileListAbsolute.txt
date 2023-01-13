@@ -1,0 +1,14 @@
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.exe
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.deps.json
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.runtimeconfig.json
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.runtimeconfig.dev.json
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.dll
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\bin\Debug\netcoreapp3.1\ISIT324_Homework1.pdb
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.AssemblyInfoInputs.cache
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.AssemblyInfo.cs
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.dll
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.pdb
+C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Homework1\ISIT324_Homework1\obj\Debug\netcoreapp3.1\ISIT324_Homework1.genruntimeconfig.cache

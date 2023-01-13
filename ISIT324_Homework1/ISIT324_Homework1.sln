@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIT324_Homework1", "ISIT324_Homework1\ISIT324_Homework1.csproj", "{19DE7D90-CDCC-4713-80F3-A2D39BCC6F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DE7D90-CDCC-4713-80F3-A2D39BCC6F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DE7D90-CDCC-4713-80F3-A2D39BCC6F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DE7D90-CDCC-4713-80F3-A2D39BCC6F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DE7D90-CDCC-4713-80F3-A2D39BCC6F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C95E903A-8E90-4CF6-8F9B-53DE6B5E304A}
+	EndGlobalSection
+EndGlobal
