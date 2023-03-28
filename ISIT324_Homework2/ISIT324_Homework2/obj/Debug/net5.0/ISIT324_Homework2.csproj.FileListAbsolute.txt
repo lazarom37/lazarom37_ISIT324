@@ -1,0 +1,16 @@
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.exe
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.deps.json
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.runtimeconfig.json
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.runtimeconfig.dev.json
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.dll
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ref\ISIT324_Homework2.dll
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\bin\Debug\net5.0\ISIT324_Homework2.pdb
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.csproj.AssemblyReference.cache
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.AssemblyInfoInputs.cache
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.AssemblyInfo.cs
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.dll
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ref\ISIT324_Homework2.dll
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.pdb
+C:\Users\Marcus\source\repos\ISIT324_Homework2\ISIT324_Homework2\obj\Debug\net5.0\ISIT324_Homework2.genruntimeconfig.cache

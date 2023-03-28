@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISIT324_Anvils", "ISIT324_Anvils\ISIT324_Anvils.csproj", "{E618B0D6-EE33-40EE-9927-A10443834B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E618B0D6-EE33-40EE-9927-A10443834B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E618B0D6-EE33-40EE-9927-A10443834B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E618B0D6-EE33-40EE-9927-A10443834B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E618B0D6-EE33-40EE-9927-A10443834B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B8C8838-4194-49A5-BCF9-D74AD52E175A}
+	EndGlobalSection
+EndGlobal

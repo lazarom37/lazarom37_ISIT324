@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcus\\Documents\\GitHub\\ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj": {}
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcus\\Documents\\GitHub\\ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj": {
+    "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj",
+        "projectUniqueName": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj",
         "projectName": "ISIT324_Union",
-        "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj",
+        "projectPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_ISIT324\\ISIT324_Union\\ISIT324_Union\\ISIT324_Union.csproj",
         "packagesPath": "C:\\Users\\Marcus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\ISIT324\\ISIT324_Union\\ISIT324_Union\\obj\\",
+        "outputPath": "C:\\Users\\Marcus\\Documents\\GitHub\\lazarom37_ISIT324\\ISIT324_Union\\ISIT324_Union\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.415\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
         }
       }
     }

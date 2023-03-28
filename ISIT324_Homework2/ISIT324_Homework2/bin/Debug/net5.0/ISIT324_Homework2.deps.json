@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ISIT324_Homework2/1.0.0": {
+        "runtime": {
+          "ISIT324_Homework2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISIT324_Homework2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

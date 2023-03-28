@@ -8,24 +8,30 @@ namespace ISIT324_Union
 
         static void Main(string[] args)
         {
-            ArrayList sample1 = new ArrayList() { 1, 2, 3 };
-            ArrayList sample2 = new ArrayList() { 4, 5, 6 };
+            ArrayList sample1 = new ArrayList() { true, true, true };
+            ArrayList sample2 = new ArrayList() { false, false, false};
+            Console.WriteLine("sample1: ");
             foreach (var item in sample1)
             {
-                Console.WriteLine("sample1: " + item);
+                Console.Write(item + " ");
             }
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("sample2: ");
             foreach (var item in sample2)
             {
-                Console.WriteLine("sample2: " + item);
+                Console.Write(item + " ");
             }
+            Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine("Here they are together: ");
 
             foreach (var item in Union(sample1, sample2))
             {
-                Console.WriteLine("final: " + item);
+                Console.Write(item + " ");
             }
+            Console.WriteLine();
+            Console.WriteLine();
         }
 
         public static ArrayList Union(ArrayList a, ArrayList b)

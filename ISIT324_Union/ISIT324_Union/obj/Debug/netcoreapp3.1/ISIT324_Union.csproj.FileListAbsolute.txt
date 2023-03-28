@@ -12,3 +12,17 @@ C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\n
 C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.dll
 C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.pdb
 C:\Users\Marcus\Documents\GitHub\ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.genruntimeconfig.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.exe
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.deps.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.runtimeconfig.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.runtimeconfig.dev.json
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\bin\Debug\netcoreapp3.1\ISIT324_Union.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.csproj.AssemblyReference.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.AssemblyInfoInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.AssemblyInfo.cs
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.dll
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.pdb
+C:\Users\Marcus\Documents\GitHub\lazarom37_ISIT324\ISIT324_Union\ISIT324_Union\obj\Debug\netcoreapp3.1\ISIT324_Union.genruntimeconfig.cache
